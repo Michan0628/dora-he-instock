@@ -1,6 +1,6 @@
 # In-Stock 
 
-In-stock is a is a web application of an inventory management system for a Fortune 500 client.
+In-stock is a web application of an inventory management system for a Fortune 500 client.
 Our team build a web application called ‘InStock’ from the ground-up, and a project manager has already set up a JIRA board with the required tasks outlined. We assigned different tasks to each team member and manage our code base to collaborate together effectively.
 
 
